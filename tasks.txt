@@ -1,0 +1,5 @@
+podpięcie reduxa
+podpiecie firebase
+system logowanie - baza danyc/ikonka logowania/hashowanie haseł itd.
+dodawanie składników i przepisów
+obliczanie składników na zakupy np, albo na cały dzień

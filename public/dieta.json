@@ -1,0 +1,33 @@
+{
+
+  "day": {
+    "day": "poniedziałek",
+    "id": 0,
+    "meal_0": {
+      "meal_name": "drugie śniadanie",
+      "recipe_name": "koktajl z owocami leśnymi",
+      "ingredients": {
+        "name": ["owoce leśne", "Kefir 2%", "Syrop klonowy", "orzechy włoskie"],
+        "weight": [150, 200, 5, 15]
+      },
+      "recipe": [
+        "Zblendować razem wszystkie składniki na koktajl."
+      ]
+    },
+    "meal_1": {
+      "meal_name": "podwieczorek",
+      "recipe_name": "Wrap warzywny z guacamole",
+      "ingredients": {
+        "tortilla pełnoziarnista": 60,
+        "Ogórek kwaszony": 60,
+        "Kiełki rzodkiewki": 16,
+        "Rzodkiewka": 30,
+        "Awokado": 46,
+        "Rukola": 20
+      },
+      "recipe": [
+        "Posmarować tortillę guacamole (zblendowane i przyprawione awokado), obłożyć warzywami, zawinąć placek w rulon, pokroić na 2 kawałki."
+      ]
+    }
+  }
+}
